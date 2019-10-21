@@ -9,7 +9,7 @@ GitHub trending Line bot power by Google Script.
 
 ## 工商時間
 
-![](https://drive.google.com/file/d/1hGCI7eUI_XMZHX8qfg8g_r2xBnF84G_M/view?usp=sharing)
+![](https://c7b23f33.ngrok.io/951lhtuw.png)
 
 Line ID: @951lhtuw
 
