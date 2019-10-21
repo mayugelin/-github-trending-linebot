@@ -8,9 +8,6 @@ GitHub trending Line bot power by Google Script.
 
 
 ## 工商時間
-
-![qrcode.png](https://qr-official.line.me/sid/L/951lhtuw.png)
-
 Line ID: @951lhtuw
 
 掃描此 QRcode 或透過 Line ID 可以加入好友，來關注 github 的趨勢.
