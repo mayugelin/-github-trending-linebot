@@ -16,6 +16,7 @@ Line ID: @951lhtuw
 
 點擊 D(daily)、W(weekly)、M(monthly)，會顯示相對應的趨勢清單.
 
+![](https://github.com/mayugelin/github-trending-linebot/blob/master/khugv-frmzb.gif)
 
 ## Built With
 
